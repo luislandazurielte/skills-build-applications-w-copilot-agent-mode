@@ -1,0 +1,30 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin-top: 2rem;
+}
+
+.card {
+  margin-bottom: 1.5rem;
+}
+
+.table {
+  background: #fff;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-weight: 600;
+}
+
+.btn {
+  margin: 0.25rem;
+}
